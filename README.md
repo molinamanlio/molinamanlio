@@ -31,10 +31,8 @@ Escribo sobre **macroeconomía** y estrategias para navegar el ecosistema de las
 
 ### Actividad reciente
 
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### GitHub Stats
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=molinamanlio&show_icons=true&theme=radical)
