@@ -30,7 +30,6 @@ Escribo sobre **macroeconomía** y estrategias para navegar el ecosistema de las
 ---
 
 ### Mi Actividad reciente en GitHub
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
