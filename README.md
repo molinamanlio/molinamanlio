@@ -1,6 +1,6 @@
 # I'm Marco 
 
-### Macroeconomics | ₿ Crypto Strategist | Python Developer | Offensive Security
+### Macroeconomics | ₿ Crypto | Python | Rust | Offensive Security
 
 ---
 
