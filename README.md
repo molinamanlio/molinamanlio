@@ -9,14 +9,14 @@ Escribo sobre **macroeconomía** y estrategias para navegar el ecosistema de las
 
 * **Lectura:** Puedes encontrar mis análisis en el [blog de Mont Capital](https://montcapital.xyz).
 * **Tech Stack:** Trabajo principalmente con **Python** para el desarrollo de proyectos personales y profesionales.
-* **Actualidad:** Actualmente estoy inmerso en el mundo de la **ciberseguridad ofensiva**, con un énfasis especial en la seguridad de **LLMs** (Large Language Models).
+* **Actualidad:** Actualmente estoy construyendo un fondo delta neutral.
 
 ---
 
 ## Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Crypto](https://img.shields.io/badge/Web3-Protocols-blueviolet?style=for-the-badge)
-![CyberSecurity](https://img.shields.io/badge/Offensive-Security-red?style=for-the-badge)
+
 
 ---
 
